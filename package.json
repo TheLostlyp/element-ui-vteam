@@ -32,6 +32,7 @@
     "type": "git",
     "url": "git@github.com:TheLostlyp/element-ui-vteam.git"
   },
+  "homepage": "http://element.eleme.io",
   "keywords": [
     "eleme",
     "vue",
@@ -123,4 +124,5 @@
     "webpack-dev-server": "^1.15.1",
     "webpack-node-externals": "^1.5.4"
   },
+  "_from": "element-ui@1.4.7",
 }
